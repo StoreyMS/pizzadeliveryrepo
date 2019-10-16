@@ -1,2 +1,2 @@
 # pizzadeliveryrepo
-this contains a pizza delivry alg
+this contains a pizza delivery alg
